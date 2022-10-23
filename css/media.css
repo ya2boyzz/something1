@@ -1,0 +1,18 @@
+@media screen and (max-width:768px) {
+    .nav{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+}
+@media screen and (max-width:568px) {
+    .menu{
+        gap: 20px;
+    }
+}
+@media screen and (max-width:420px) {
+    .menu{
+        flex-direction: column;
+    }
+}
