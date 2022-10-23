@@ -51,6 +51,7 @@ header {
 .banner {
     background: url(../img/banner.png);
     height: 850px;
+    background-position: center ;
     background-repeat: no-repeat;
     background-size: cover;
 }
